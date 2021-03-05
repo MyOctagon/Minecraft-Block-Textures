@@ -15,3 +15,5 @@ Feel free to contribute here, I really apreciate that. As I said this repository
 - This IS a repository of 3D block renders
 - This IS a repository of item textures
 - File names must include the name of block/item (If it is downloaded from Minecraft Gamepedia then it doesn't need renaming)
+
+Happy Crafting :)
